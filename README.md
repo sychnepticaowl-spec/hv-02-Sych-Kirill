@@ -13,6 +13,10 @@
 - PostgreSQL (база данных)
 - Apache + PHP 8.4 (веб-интерфейс)
 - IP адрес сервера: `10.0.3.4`
+  
+### 📸 Админ панель
+
+![Hosts](https://github.com/sychnepticaowl-spec/hv-02-Sych-Kirill/blob/main/screenshots/admin-login.png?raw=true) 
 
 ### 📋 Команды установки
 
